@@ -20,4 +20,4 @@
 * Allow writing of output files rather than plotting
 
 ### Disclaimer
-This file is not affiliated with **VASP**. Feel free to use and modify, but do so at your own risk.
+This file is not affiliated with **VASP**. The code is distributed under the GNU General Public License v3.0
