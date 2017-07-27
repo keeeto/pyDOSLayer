@@ -28,6 +28,10 @@ def get_sort_of_atoms():
 		return cont.readline().split()
 
 def get_atom_coordinates(filename):
+    '''
+    This routine is heavily based on ASE (https://wiki.fysik.dtu.dk/ase/), which is distributed under the LGPL license.
+    This code is distributed under GPL.
+    '''
 
     if isinstance(filename, str):
         f = open(filename)
